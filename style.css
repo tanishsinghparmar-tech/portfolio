@@ -463,6 +463,8 @@ h6 {
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
+    padding: 1rem;
     font-family: var(--font-heading);
     font-weight: 500;
     transition: var(--transition-slow);
